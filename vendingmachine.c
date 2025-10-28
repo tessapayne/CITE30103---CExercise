@@ -1,3 +1,4 @@
+/* Name: Tessa Payne */
 #include <stdio.h>
 
 int main(void){
